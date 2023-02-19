@@ -1,0 +1,90 @@
+.q1{
+    background-color: #FFFFFF;
+}
+.q2{
+    font-size: 25px;
+    color: #6E727D;
+}
+.q3{
+    font-weight: 700;
+}
+.q5{
+    color: #6E727D;
+}
+.q4{
+    font-weight: 700;
+}
+.q8{
+color: #19CB55;
+
+
+}
+.q9{
+color: #F95F75;
+}
+.q10{
+color: #FF8500;
+}
+.q11{
+    color: #257EFB;
+}
+.btn1:hover{
+    background-color: #19CB55;
+    display: inline;
+    color: white;
+    border-radius: 50%;
+}
+.btn2:hover{
+    background-color:#257EFB ;
+    display: inline;
+    color: white;
+    border-radius: 50%;
+}
+.btn3:hover{
+    background-color: #F95F75;
+    display: inline;
+    color: white;
+    border-radius: 50%;
+}
+.btn4:hover{
+    background-color:#FF8500;
+    display: inline;
+    color: white;
+    border-radius: 50%;
+}
+.img-fluid:hover{
+    margin-left: 15px;
+}
+
+.a1{
+    font-weight: 700;
+    color: #6E727D;
+    font-size: 21px;
+}
+.a2{
+    font-weight: 700;
+}
+.card{
+    margin-left: 44px;
+    margin-top: -35px;
+    width: 327px;
+}
+span{
+    margin-left: 20px;
+}
+.card:hover{
+   width: 106%;
+   margin-left: -4px;
+}
+.e1:hover{
+    
+        max-width: 100%;
+        text-align: center;
+        -moz-transition: all 0.3s;
+        -webkit-transition: all 0.3s;
+        
+    }
+    .card{
+        transition: all 0.3s;
+    }
+
